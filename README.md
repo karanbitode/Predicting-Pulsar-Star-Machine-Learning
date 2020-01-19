@@ -1,7 +1,10 @@
 # Predicting-Pulsar-Star-Machine-Learning-
 Machine Learning Python Script implementing Support Vector Classifier (SVC) using Gaussian Kernel (RBF). This Model will predict where the observed star is Pulsar or not. 
 
-Dataset Columns :- 1. Mean of the integrated profile, 2. Standard deviation of the integrated profile, Excess kurtosis of the integrated profile, Skewness of the integrated profile, Mean of the DM-SNR curve, Standard deviation of the DM-SNR curve, Excess kurtosis of the DM-SNR curve, Skewness of the DM-SNR curve, target_class - 0 or 1
+Dataset Columns :- 
+1. Mean of the integrated profile, 
+2. Standard deviation of the integrated profile, 
+Excess kurtosis of the integrated profile, Skewness of the integrated profile, Mean of the DM-SNR curve, Standard deviation of the DM-SNR curve, Excess kurtosis of the DM-SNR curve, Skewness of the DM-SNR curve, target_class - 0 or 1
 
 ![](Figure_2.png)
 ![](Figure_1.png)
